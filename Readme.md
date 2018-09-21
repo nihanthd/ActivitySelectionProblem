@@ -17,16 +17,19 @@ One line per problem instance: instance number and its optimal profit.
 
 Sample input:
 10
-1  4  3
-1  6  5
-25 28 3
-25 30 5
-7  12 5
-7  10 3
-13 18 5
-19 24 5
-15 18 3
-22 25 3
+
+|start|end|profit|
+|---|---|---|
+|1| 4| 3|
+|1|  6| 5|
+|25| 28| 3|
+|25| 30| 5|
+|7 | 12| 5|
+|7 | 10| 3|
+|13| 18| 5|
+|19| 24| 5|
+|15| 18| 3|
+|22| 25| 3|
 
 Output:
 1 19
